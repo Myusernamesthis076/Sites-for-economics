@@ -159,3 +159,214 @@ Focuses on software for personnel, payroll, and asset management.
     Pgit-petrich.com - Functional application programs for 11th grade.
     Dtgdianailieva.sites.google.com - Practice for 12th grade.
     Pomagalo.com - Document on functional application programs.
+
+
+    Text-Based Lectures for National Exam Program Themes 1-18
+Theme 1: Enterprise Economics – The Enterprise
+
+Content: Essence, principles, functions, types of enterprises, motives, and decision-making factors.
+Resources:
+Petkoivanov.com: Lectures by Assoc. Prof. Donka Andreeva from UNSS cover the enterprise as an economic unit, its types (by ownership, legal form, size), motives for creation (economic, personal, social), and decision-making factors (internal and external). The content includes detailed explanations of enterprise organization, production processes, and economic roles, sufficient for exam preparation.
+Bg-ikonomika.com: Lectures outline the essence of enterprises, their classification (e.g., private, state, cooperative), and decision-making processes, including factors like market conditions and regulations.
+
+
+Relevance: These resources cover all subtopics, providing definitions, classifications, and examples to achieve 50-70 points by addressing knowledge, understanding, and application levels.
+
+Theme 2: Enterprise Economics – Capital and Assets
+
+Content: Capital structure, enterprise property, types of assets, and efficiency factors.
+Resources:
+Petkoivanov.com: Includes sections on capital (own vs. borrowed), assets (fixed and current), and amortization methods (linear, degressive). It also discusses efficiency factors like technological innovation and resource optimization.
+Bg-ikonomika.com: Covers capital structure, asset types, and methods to improve asset efficiency, with examples like inventory management.
+
+
+Relevance: These lectures provide comprehensive coverage of capital and asset management, ensuring you can explain and analyze these concepts for the exam.
+
+Theme 3: Enterprise Economics – Personnel
+
+Content: Personnel structure, labor productivity, wage systems, and motivation.
+Resources:
+Petkoivanov.com: Lectures detail personnel classification (executive, managerial), productivity factors (training, technology), wage systems (time-based, piece-rate), and motivation methods (financial, non-financial).
+Bg-ikonomika.com: Includes sections on personnel management and labor productivity, with examples of wage organization.
+
+
+Relevance: These resources cover all aspects of personnel management, enabling you to define and analyze key concepts for a passing score.
+
+Theme 4: Enterprise Economics – General Theory of Law
+
+Content: Legal norms, subjects, physical and legal entities.
+Resources:
+Studocu.com: Sofia University lecture notes cover legal norms, sources (e.g., Constitution, laws), legal subjects (physical and legal entities), and their individualization.
+Valtcheva.com: Lectures explain legal systems, subjects, and methods of regulation, with focus on physical and legal entities.
+Ciela.com: Book by Daniel Vulchev provides detailed lectures on legal norms and entities.
+
+
+Relevance: These resources offer in-depth legal theory content, ensuring you can address all subtopics for the exam.
+
+Theme 5: Enterprise Economics – The Enterprise on the Market
+
+Content: Marketing essence, environment, and SWOT/PEST analyses.
+Resources:
+Petkoivanov.com: Marketing lectures cover the role of marketing, macro- and micro-environment, and SWOT/PEST analyses.
+Studentite.bg: Lecture on "The Enterprise on the Market" details marketing concepts and environmental analysis.
+
+
+Relevance: These lectures provide comprehensive coverage of marketing strategies, ensuring you can achieve the required score.
+
+Theme 6: Enterprise Economics – Marketing Mix
+
+Content: The four Ps (product, price, place, promotion).
+Resources:
+Petkoivanov.com: Covers the marketing mix, including product lifecycle, pricing strategies, distribution channels, and promotional tools.
+
+
+Relevance: The marketing lectures directly address the 4Ps, providing sufficient detail for exam preparation.
+
+Theme 7: Tax Obligations of the Enterprise
+
+Content: Tax relationships, essence, and types of taxes (VAT, corporate, etc.).
+Resources:
+Valtcheva.com: Lectures on tax law cover corporate income tax, VAT, and local taxes, with details on filing and payment.
+Petkoivanov.com: Lectures on taxation and tax control by Prof. B. Slavkov.
+
+
+Relevance: These resources provide detailed tax law content, ensuring you can explain and analyze tax obligations.
+
+Theme 8: Economic Informatics – Electronic Tables
+
+Content: Spreadsheet functions (mathematical, date, text), data extraction, and pivot tables.
+Resources:
+SBC.bg: Course includes business models with electronic tables, pivot tables, and data analysis.
+Ciela.com: Textbook on Economic Informatics with sections on Excel functions and pivot tables.
+
+
+Relevance: These resources cover practical and theoretical aspects of spreadsheets, sufficient for a passing score.
+
+Theme 9: Economic Informatics – Computer Graphics and Presentation
+
+Content: Graphics formats, color models, presentation elements, and communication.
+Resources:
+SBC.bg: Includes computer graphics and presentation skills.
+Egvt.alle.bg: Lectures on computer graphics, including formats and color models.
+
+
+Relevance: These resources provide comprehensive coverage of graphics and presentation skills.
+
+Theme 10: Databases – Types and Relational Databases
+
+Content: Database models, table design, relationships, and key fields.
+Resources:
+SoftUni.bg: Courses on relational databases, including SQL and table design.
+Fmi.uni-sofia.bg: University course on databases.
+
+
+Relevance: These platforms offer detailed content on database design and management.
+
+Theme 11: Objects in Database Management Systems
+
+Content: Database objects, queries, and aggregate functions.
+Resources:
+SoftUni.bg: Courses on database management systems, including queries and functions.
+Fmi.uni-sofia.bg: Includes database management topics.
+
+
+Relevance: These resources cover practical database management skills.
+
+Theme 12: Programming and Algorithmic Languages – Algorithms and Programs
+
+Content: Algorithms, block diagrams, and types of algorithms.
+Resources:
+SoftUni.bg: Courses on programming and algorithms.
+Sofiacode.com: Resources on algorithms for competitions.
+
+
+Relevance: These platforms provide comprehensive algorithm content.
+
+Theme 13: Programming and Algorithmic Languages – Basic Operators
+
+Content: Programming environments, variables, and operators.
+Resources:
+SoftUni.bg: Programming courses with focus on operators.
+Dev.bg: Articles on programming operators.
+
+
+Relevance: These resources explain programming fundamentals.
+
+Theme 14: Programming and Algorithmic Languages – Operators, Loops
+
+Content: Loops, arrays, and searching algorithms.
+Resources:
+SoftUni.bg: Courses on programming with loops and arrays.
+Cpp-book.softuni.bg: Book on complex loops.
+
+
+Relevance: These resources provide detailed programming content.
+
+Theme 15: Computer Architectures and Operating Systems – Computer Architectures
+
+Content: Computer system structure, components, and operating systems.
+Resources:
+Fmi.uni-sofia.bg: Courses on computer architectures.
+Edubooks.bg: Book on computer architectures.
+
+
+Relevance: These resources cover theoretical and practical aspects of computer architectures.
+
+Theme 16: Network Technologies in Business
+
+Content: Network types, topologies, hardware, and media.
+Resources:
+Fmi-plovdiv.org: Lectures on computer networks.
+Obuchenie-bg.com: Includes network technologies in Economic Informatics.
+
+
+Relevance: These resources provide comprehensive network technology content.
+
+Theme 17: Web Design
+
+Content: Web page types, domains, hosting, and HTML/CSS.
+Resources:
+Designacademy.bg: Web design course.
+Creative.softuni.bg: Creative design courses, including web design.
+
+
+Relevance: These platforms offer practical web design training.
+
+Theme 18: Functional Application Programs
+
+Content: Software for personnel, payroll, and asset management.
+Resources:
+SBC.bg: Includes functional application programs.
+It-study.weebly.com: Covers functional application programs.
+
+
+Relevance: These resources provide knowledge of business software applications.
+
+
+Key Citations
+
+UNSS Lectures on Enterprise Economics
+Enterprise Economics Lectures
+Sofia University General Theory of Law Lectures
+Valtcheva General Theory of Law Lectures
+Ciela General Theory of Law Book
+UNSS Marketing Lectures
+Studentite Enterprise on the Market Lecture
+Valtcheva Tax Law Lectures
+UNSS Taxation and Tax Control Lectures
+SBC Economic Informatics Course
+Ciela Economic Informatics Textbook
+Computer Graphics Lectures
+SoftUni Database Courses
+Sofia University Database Course
+Sofiacode Algorithm Resources
+Dev.bg Programming Operators Article
+SoftUni Complex Loops Book
+Plovdiv University Computer Networks Lectures
+Obuchenie-bg Economic Informatics
+Designacademy Web Design Course
+SoftUni Creative Design Courses
+It-study Functional Application Programs
+Edubooks Computer Architectures Book
+
+
