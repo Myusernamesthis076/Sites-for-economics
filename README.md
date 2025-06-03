@@ -369,4 +369,74 @@ SoftUni Creative Design Courses
 It-study Functional Application Programs
 Edubooks Computer Architectures Book
 
+**Тема 1: Икономика на предприятието – Предприятието**  
+- [Petkoivanov.com](https://petkoivanov.com/lektsii-po-ikonomika-na-predpriatieto-pri-dots-donka-andreeva-unss/) - Лекции от УНСС за видовете предприятия и организацията им.  
+- [Bg-ikonomika.com](https://www.bg-ikonomika.com/2014/10/ikonomika-na-predpriyatieto.html) - Лекции по икономика на предприятието и вземане на решения.
 
+**Тема 2: Икономика на предприятието – Капитал и активи**  
+- [Petkoivanov.com](https://petkoivanov.com/lektsii-po-ikonomika-na-predpriatieto-pri-dots-donka-andreeva-unss/) - Обхваща структурата на капитала и активите.  
+- [Studocu.com](https://www.studocu.com/bg/document/velikot%25D1%258Arnovskiyat-universitet-sv-sv-kiril-i-metodiy/t%25D1%258Argovsko-pravo/tema-2-kapital-i-aktivi-na-predpriyatieto/112868670) - Лекционни бележки за капитала и дълготрайните активи.
+
+**Тема 3: Икономика на предприятието – Персонал**  
+- [Petkoivanov.com](https://petkoivanov.com/lektsii-po-ikonomika-na-predpriatieto-pri-dots-donka-andreeva-unss/) - Включва управление на персонала и производителност.  
+- [Bg-ikonomika.com](https://www.bg-ikonomika.com/2014/10/ikonomika-na-predpriyatieto.html) - Обхваща производителност на труда и системи за заплащане.
+
+**Тема 4: Икономика на предприятието – Обща теория на правото**  
+- [Studocu.com](https://www.studocu.com/bg/document/sofiyskiyat-universitet-sv-kliment-okhridski/obshcha-teoriya-na-pravoto/obshcha-teoriya-na-pravoto-lektsii/24808189) - Лекции от Софийския университет за правни норми и субекти.  
+- [Sibi.bg](https://sibi.bg/lekcii-po-obscha-teoriya-na-pravoto.-chast-2.html) - Книга за обща теория на правото, част 2.
+
+**Тема 5: Икономика на предприятието – Предприятието на пазара**  
+- [Studentite.bg](https://www.studentite.bg/Tursene-Materiali-117/Ikonomika-226%282%2C0%29/Predpriqtieto-na-pazara-Marketing-i-marketingovi-koncepcii-167%283517%29) - Лекция за пазарни стратегии и маркетинг.  
+- [Petkoivanov.com](https://petkoivanov.com/lektsii-po-ikonomika-na-predpriatieto-pri-dots-donka-andreeva-unss/) - Лекции по маркетинг от УНСС.
+
+**Тема 6: Икономика на предприятието – Маркетингов микс**  
+- [Novavizia.com](https://novavizia.com/marketing-miks/) - Статия за елементите на маркетинговия микс.  
+- [Nextbasket.com](https://nextbasket.com/bg/kakvo-e-marketingov-miks-na-firma-opredelenie-i-dobri-praktiki/) - Най-добри практики за маркетингов микс.
+
+**Тема 7: Данъчни задължения на предприятието**  
+- [Petkoivanov.com](https://petkoivanov.com/lektsii-po-danachno-oblagane-danachen-kontrol-pri-prof-b-slavkov-unss/) - Лекции за данъчно облагане и данъчен контрол.  
+- [Valtcheva.com](https://valtcheva.com/index.php/law/23-finansovo-danuchno-pravo/137-137) - Лекции по данъчно право, включително ДДС и корпоративен данък.
+
+**Тема 8: Икономическа информатика – Електронни таблици**  
+- [Bg.izzi.digital](https://bg.izzi.digital/DOS/110804/110806.html) - Електронни учебници със съдържание за електронни таблици.  
+- [Google.com](https://www.google.com/intl/bg_bg/sheets/about/) - Уроци за Google Sheets на български.
+
+**Тема 9: Икономическа информатика – Компютърна графика и презентации**  
+- [Egvt.alle.bg](https://egvt.alle.bg/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0/) - Лекции по компютърна графика.  
+- [Jemil.my.contact.bg](http://jemil.my.contact.bg/NewFolder/Graphics.ppt) - Презентация по графика.
+
+**Тема 10: Бази данни – Видове и релационни бази данни**  
+- [Obuch.info](https://obuch.info/lekcii-po-bazi-danni.html) - Лекции по бази данни.  
+- [Pragmatic.bg](https://pragmatic.bg/courses/relational-databases-course/) - Курс по релационни бази данни.
+
+**Тема 11: Обекти в системи за управление на бази данни**  
+- [It-study.weebly.com](https://it-study.weebly.com/105510881086107710721074107210851077-1080-108910981079107610721074107210851077-10851072-1073107210791080-10861090-10761072108510851080.html) - Дизайн и обекти на бази данни.  
+- [It-lessons.weebly.com](https://it-lessons.weebly.com/1041107210791072-10761072108510851080.html) - Съдържание за бази данни.
+
+**Тема 12: Програмиране и алгоритмични езици – Алгоритми и програми**  
+- [Sofiacode.com](https://sofiacode.com/resources/) - Ресурси за алгоритми за състезания.  
+- [Fmi.uni-sofia.bg](https://www.fmi.uni-sofia.bg/bg/izvlichane-na-informaciya-i-otkrivane-na-znaniya) - Курс на Софийския университет по алгоритми.
+
+**Тема 13: Програмиране и алгоритмични езици – Основни оператори**  
+- [Codeacademy.bg](https://codeacademy.bg/programirane/operatori/) - Статия за програмни оператори.  
+- [Prosdzi.alle.bg](https://prosdzi.alle.bg/%D1%82%D0%B5%D0%BC%D0%B0-3/) - Лекция за оператори в C++.
+
+**Тема 14: Програмиране и алгоритмични езици – Оператори, цикли**  
+- [Bg.wikipedia.org](https://bg.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D1%8A%D0%BB_%28%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5%29) - Статия в Уикипедия за програмни цикли.  
+- [Codingwithmel.com](https://codingwithmel.com/%D0%B2%D1%8A%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8-%D0%B7%D0%B0-%D1%86%D0%B8%D0%BA%D0%BB%D0%B8/) - Въведение в оператори за цикли.
+
+**Тема 15: Компютърни архитектури и операционни системи – Компютърни архитектури**  
+- [Learn.fmi.uni-sofia.bg](https://learn.fmi.uni-sofia.bg/course/view.php?id=331) - Курс на Софийския университет за облачни архитектури.  
+- [Edubooks.bg](https://edubooks.bg/index.php/all-products/product/131-kompyutarni-arhitekturi) - Книга за компютърни архитектури.
+
+**Тема 16: Мрежови технологии в бизнеса**  
+- [Fmi-plovdiv.org](https://kmk.fmi-plovdiv.org/LecturesKMK.pdf) - Лекции на Пловдивския университет за компютърни мрежи.  
+- [Unichoice.ivision.bg](https://unichoice.ivision.bg/universiteti/nbu/mrejovi-tehnologii.html) - Програма за мрежови технологии на НБУ.
+
+**Тема 17: Уеб дизайн**  
+- [Designacademy.bg](https://designacademy.bg/index.php?q=wd) - Курс по уеб дизайн.  
+- [Creative.softuni.bg](https://creative.softuni.bg/) - Курсове по креативен дизайн от СофтУни.
+
+**Тема 18: Функционални приложни програми**  
+- [It-study.weebly.com](https://it-study.weebly.com/105510881086107710721074107210851077-1080-108910981079107610721074107210851077-10851072-1073107210791080-10861090-10761072108510851080.html) - Съдържание за приложни програми.  
+- [Obuch.info](https://obuch.info/1-sshnost-na-funkcionalnite-prilojni-programi.html) - Същност на функционалните приложни програми.
